@@ -82,8 +82,14 @@ Users can interact with the dashboard using dynamic filters such as:
 
 ---
 
-## Dashboard Preview  
-*(Add your dashboard screenshot here)*  
+## Dashboard 
+**Overview**
+
+ <img width="1330" height="746" alt="Screenshot 2025-10-19 165814" src="https://github.com/user-attachments/assets/c4160330-95ae-47b5-a62e-2d83b43e1c0d" />
+
+**Details**
+
+<img width="1330" height="748" alt="Screenshot 2025-10-19 165837" src="https://github.com/user-attachments/assets/790e123c-f939-43bf-90bd-f967221a10bb" />
 
 ---
 
